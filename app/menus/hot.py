@@ -27,7 +27,7 @@ HOT_PACKAGES_2_DATA = [
                 "family_code": "fc77cc03-4b05-4e79-8e42-5308c3f81fd1",
                 "is_enterprise": False,
                 "variant_name": "Free Fire",
-                "option_name": "PUBG 2GB",
+                "option_name": "Free Fire 2GB",
                 "order": 5
             }
         ]
