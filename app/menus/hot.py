@@ -24,11 +24,11 @@ HOT_PACKAGES_2_DATA = [
             },
             {
                 "family_name": "Work & School",
-                "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+                "family_code": "fc77cc03-4b05-4e79-8e42-5308c3f81fd1",
                 "is_enterprise": False,
                 "variant_name": "Work & School",
                 "option_name": "Education 2GB",
-                "order": 6
+                "order": 5
             }
         ]
     }
