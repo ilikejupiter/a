@@ -20,7 +20,7 @@ HOT_PACKAGES_2_DATA = [
                 "is_enterprise": False,
                 "variant_name": "Akrab",
                 "option_name": "218GB for 4 Members",
-                "order": 46
+                "order": 17
             },
             {
                 "family_name": "Work & School",
