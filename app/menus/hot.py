@@ -11,7 +11,7 @@ from app.type_dict import PaymentItem
 HOT_PACKAGES_2_DATA = [
     {
         "name": "Masa Aktif 1 bulan",
-        "price": "Rp2500",
+        "price": "Rp1000",
         "detail": "Tested metode E-Wallet & QRIS.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.\nTidak bisa akumulasi. Pastikan masa aktif saat ini kurang dari 1 bulan.",
         "packages": [
             {
@@ -27,8 +27,8 @@ HOT_PACKAGES_2_DATA = [
                 "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
                 "is_enterprise": False,
                 "variant_name": "Work & School",
-                "option_name": "Education 5GB",
-                "order": 5
+                "option_name": "Education 2GB",
+                "order": 6
             }
         ]
     }
