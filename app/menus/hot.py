@@ -23,11 +23,11 @@ HOT_PACKAGES_2_DATA = [
                 "order": 17
             },
             {
-                "family_name": "Work & School",
+                "family_name": "Kuota Gaming",
                 "family_code": "fc77cc03-4b05-4e79-8e42-5308c3f81fd1",
                 "is_enterprise": False,
-                "variant_name": "Work & School",
-                "option_name": "Education 2GB",
+                "variant_name": "Free Fire",
+                "option_name": "PUBG 2GB",
                 "order": 5
             }
         ]
