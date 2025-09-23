@@ -28,7 +28,7 @@ HOT_PACKAGES_2_DATA = [
                 "is_enterprise": False,
                 "variant_name": "Work & School",
                 "option_name": "Education 2GB",
-                "order": 5
+                "order": 6
             }
         ]
     }
